@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 2f123c1c49479e44a9e62dd3a8bb98aa
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: mvSatyr_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 576
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 576
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 576
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 576
+        width: 9
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 576
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 576
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 9
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 512
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 512
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 512
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 512
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 512
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 513
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 515
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 512
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 448
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 448
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 448
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 448
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 448
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 448
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 448
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 448
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 448
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 320
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 320
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 320
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 320
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_32
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 320
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_34
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 320
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 257
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mvSatyr_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 256
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
