@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerController : MonoBehaviour {
+public class PlayerControl : MonoBehaviour {
 
 
 	public int PlayerHP = 100;
@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour {
 	private bool jump = false;
 	private Transform groundCheck;
 	private bool grounded = false;
-	private bool facingRight = true;
+	public bool facingRight = true;
 	private bool invulnerable = false;
 	private float invulStart;
 	private bool PlayerControlEnabled = true;
